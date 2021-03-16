@@ -1,6 +1,10 @@
 ################## INSTALLATION
+
 Find your victoria 2 installation and put this folder and the .mod file in the mod folder,
+
 then select /PastelThickBorders/ (slashes so it comes before all other mods) from the launcher on game start. 
+
+###
 
 ###Just something I threw in together mashing couple of features various V2 map modders made for this game that still work for entirely reconfigured TGC mapmode
 
