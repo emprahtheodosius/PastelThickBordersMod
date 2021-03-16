@@ -16,6 +16,8 @@ then select /PastelThickBorders/ (slashes so it comes before all other mods) fro
 
 #The next time you run the game, coastline borders will correct themselves and you will have no further issues going forward
 
+#If you dislike a feature, country font or the alternative occupation/culture map mode, just delete corresponding files from the mod and run again
+
 #If you have any questions go to TGC's discord -- emprahtheodosius
 
 #From the .fx creator:
