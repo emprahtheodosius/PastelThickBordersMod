@@ -10,7 +10,7 @@ then select /PastelThickBorders/ (slashes so it comes before all other mods) fro
 
 #Adds thicker borders from HFM and a more bright, less terrain-y looking political map for TGC from one of the MishMash mod variants
 
-#Probably will work with any mod other than TGC
+#Probably will work with any mod aside from TGC
 
 #Keep in mind that first time you run the mod (at least this is how it works with another mod/TGC), the borders will "double up" on the coastline, just alt tab your game, it will "crash"
 
